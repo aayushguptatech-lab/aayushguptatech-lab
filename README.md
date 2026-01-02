@@ -5,12 +5,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Gupta</h1>
 <h3 align="center">A passionate Full-Stack & Machine Learning Developer from India</h3>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aayushguptatech-lab" alt="aayushguptatech-lab" />
-  </a>
-</p>
-
 ---
 
 ### 🔭 Current Work
@@ -63,8 +57,11 @@
 
 ## 🔥 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushguptatech-lab&show_icons=true&locale=en" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aayushguptatech-lab&show_icons=true" />
 </div>
+
+
+
 
 ---
 
