@@ -73,4 +73,4 @@ I turn **coffee into code** and **ideas into reality** ☕💻
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “The future belongs to those who prepare for it today.” – Malcolm X
