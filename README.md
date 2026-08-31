@@ -48,6 +48,167 @@ I'm a **Computer Science & Engineering (AI/ML) undergraduate** passionate about 
 
 ---
 
+# 🤝 Soft Skills
+
+### 👑 Leadership
+
+Experienced in taking ownership of technical projects, coordinating team activities, and driving projects from **idea → development → presentation**.
+
+### 🤝 Team Collaboration
+
+Comfortable working in collaborative development environments, dividing responsibilities, discussing technical approaches, and integrating individual contributions into a complete solution.
+
+### 🧩 Problem Solving
+
+Strong interest in breaking complex problems into smaller components and developing structured, optimized solutions through **DSA and practical software development**.
+
+### 🗣️ Communication
+
+Able to explain technical concepts, project architectures, implementation decisions, and project outcomes clearly to both technical and non-technical audiences.
+
+### 🎯 Project Ownership
+
+Focused on taking responsibility for assigned modules, debugging issues, meeting project objectives, and continuously improving implementation quality.
+
+### 🧠 Analytical Thinking
+
+Interested in understanding problems through data, identifying patterns, evaluating alternatives, and making evidence-based decisions.
+
+### ⚡ Adaptability
+
+Quickly learning new technologies, development tools, frameworks, and AI-assisted workflows according to project requirements.
+
+### 📚 Continuous Learning
+
+Consistently improving through **LeetCode, projects, certifications, technical workshops, hackathons, and hands-on experimentation**.
+
+---
+
+# 🏆 Achievements
+
+### 🥇 Smart India Hackathon Selection — Rank 7/200
+
+**2026**
+
+Selected among the **Top 50 students** in the college-level Smart India Hackathon selection process for the **AegisGuard cybersecurity solution**.
+
+---
+
+### 🏆 ProTech Finalist
+
+**2025**
+
+Recognized among finalist teams at the **BTech Annual Exhibition** for the **Real-Time Monitoring Smart Dustbin** project and presented the project before industry executives.
+
+---
+
+### 🏆 TechExpo Finalist
+
+**2026**
+
+Recognized as a finalist at the **BTech Annual Exhibition** for the **SevaKendra public-services portal**.
+
+---
+
+### 📜 Published Patent Application
+
+**Real-Time Monitoring Smart Dustbin**
+
+**Application No.: 202511110710 A**
+
+---
+
+# 💼 Experience
+
+## Amdox Technologies — Web Development Intern
+
+**December 2025 – March 2026**
+
+Completed a **3-month Internship and Training in Web Development**.
+
+Worked on practical web-development projects including:
+
+-  💼 Job Listing Portal
+-  🔐 Certificate Verification System
+-  🌐 Frontend and backend application development
+-  🔌 REST API development
+-  🗄️ Application data management
+-  🧩 Full-stack application workflows
+
+**Technologies:** React.js • Node.js • Express.js • JavaScript • TypeScript • SQL
+
+---
+
+# 🎓 Education
+
+## Pranveer Singh Institute of Technology (PSIT)
+
+**B.Tech — Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
+
+**2024 – 2028**
+
+**CGPA: 8.5 / 10**
+
+---
+
+### 📚 Academic Background
+
+| Qualification | Board | Score |
+| -------------- | ----- | ----- |
+| Class XII      | CBSE  | **83%** |
+| Class X        | CBSE  | **89%** |
+
+---
+
+# 📜 Certifications & Training
+
+## 🤖 Generative AI Workshop
+
+**IIT Kanpur / Techgyan Technologies**
+
+**2025**
+
+-  Successfully completed the Generative AI Workshop.
+-  Certificate completed on **March 30, 2025**.
+
+---
+
+## 📊 AI Data Engineer Analytics
+
+**HP Company**
+
+Completed training focused on **AI, data engineering and analytics concepts**.
+
+---
+
+## 🤖 Certified AI Foundations Associate
+
+**Oracle**
+
+**Validity:** October 2025 – October 2028
+
+Certification demonstrating foundational knowledge of **Artificial Intelligence concepts and technologies**.
+
+---
+
+## 📈 Data Science and Analytics
+
+**Skill India Digital**
+
+Completed training focused on **Data Science and Analytics**.
+
+---
+
+## 💻 Web Development Internship & Training
+
+**Amdox Technologies**
+
+**December 2025 – March 2026**
+
+Completed a 3-month internship and training program in **Web Development**, gaining practical exposure to full-stack application development.
+
+---
+
 # 🚀 Main Projects
 
 ## 🛡️ AegisGuard — Anti-Bot Middleware
@@ -75,7 +236,7 @@ Behavioral cybersecurity middleware designed to distinguish **human users from a
 
 **Smart India Hackathon Selection — Rank 7/200**
 
-🥇 Ranked among the **Top 3.5%**  
+🥇 Ranked among the **Top 3.5%**
 🏆 Selected among the **Top 50 students**
 
 ---
@@ -244,17 +405,17 @@ The goal is to maintain a structured record of solved problems while organizing 
 
 ### 📚 Topics I'm Practicing
 
-`Arrays`  
-`Strings`  
-`Hash Tables`  
-`Binary Search`  
-`Linked Lists`  
-`Stacks`  
-`Queues`  
-`Trees`  
-`Graphs`  
-`Dynamic Programming`  
-`SQL`  
+`Arrays`
+`Strings`
+`Hash Tables`
+`Binary Search`
+`Linked Lists`
+`Stacks`
+`Queues`
+`Trees`
+`Graphs`
+`Dynamic Programming`
+`SQL`
 `Pandas`
 
 ### 🎯 Problem-Solving Workflow
@@ -287,3 +448,20 @@ The goal is to maintain a structured record of solved problems while organizing 
               ┌──────────────┐
               │  Document    │
               └──────────────┘
+```
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+> ☕ I turn coffee into code, problems into algorithms, and ideas into reality.
+
+### 🚀 Building • Learning • Solving • Improving
+
+</div>
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and follow my journey through **Full-Stack Development, AI/ML, Data Science, & DSA**.
